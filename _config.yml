@@ -33,6 +33,13 @@ url: "https://jaanussiim.com" # the base hostname & protocol for your site, e.g.
 theme: minima
 minima:
   skin: solarized
+  social_links:
+    - title: Jaanus Siim at LinkedIn
+      icon: linkedin
+      url: "https://www.linkedin.com/in/jaanussiim/"
+author:
+  name: Jaanus Siim
+  email: "jaanus@jaanussiim.com"
 plugins:
   - jekyll-feed
 
