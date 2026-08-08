@@ -37,6 +37,9 @@ minima:
     - title: Jaanus Siim at LinkedIn
       icon: linkedin
       url: "https://www.linkedin.com/in/jaanussiim/"
+    - title: Jaanus Siim at Mastodon
+      icon: mastodon
+      url: "https://hachyderm.io/@jaanussiim"      
 author:
   name: Jaanus Siim
   email: "jaanus@jaanussiim.com"
