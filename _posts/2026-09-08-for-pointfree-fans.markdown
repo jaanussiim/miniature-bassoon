@@ -13,7 +13,7 @@ Luckily, he wrote again mentioning TCA. I was trying to play it cool, but he had
 * ~87k lines of code
 * 241 SPM packages
 * 5,702 commits, of which 5,518 by one engineer ;)
-* 1,011 merged PRs
+* 540 merged PRs
 * 15 of 51 dependencies from the PointFree ecosystem (7 declared directly in Package.swift; the rest pulled in transitively).
 
 ### PointFree packages pinned directly by Package.swift
