@@ -61,8 +61,8 @@ Sending the NFT does not have the 'amount entry' state, but does still go throug
 A rose gold NFT was requested specially by yours truly.
 
 <div style="display: flex; flex-wrap: wrap; gap: 1rem;">
-  <a href="{{ '/assets/images/2026/10/ow-nft-confirm.png' | relative_url }}" target="_blank">
-    <img src="{{ '/assets/images/2026/10/ow-nft-confirm.png' | relative_url }}" alt="NFT send confirmation" width="240">
+  <a href="{{ '/assets/images/2026/10/ow-nft-confirm.jpg' | relative_url }}" target="_blank">
+    <img src="{{ '/assets/images/2026/10/ow-nft-confirm.jpg' | relative_url }}" alt="NFT send confirmation" width="240">
   </a>
 </div>
 
